@@ -1,12 +1,12 @@
---Dbeaver
+##Dbeaver
 ![Dbeaver](https://i.hizliresim.com/lan8ua4.png)
 -----
---MS-Sql
+##MS-Sql
 ![MsSql](https://i.hizliresim.com/8svranv.png)
 -----
---Docker
+##Docker
 ![Docker](https://i.hizliresim.com/c9age2w.png)
 -----
---PgAdmin
+##PgAdmin
 ![PgAdmin](https://i.hizliresim.com/dgolb2q.png)
 
